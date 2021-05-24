@@ -1,0 +1,22 @@
+{
+    "REGISTRATION_FORM": {
+        "FIELD": {
+            "LOGIN": {
+                "TITLE": "Логин",
+                "PLACEHOLDER": "La Forme"
+            },
+            "EMAIL": {
+                "TITLE": "Почта",
+                "PLACEHOLDER": "email.com"
+            },
+            "PASSWORD": {
+                "TITLE": "Пароль",
+                "PLACEHOLDER": "Password"
+            },
+            "CONFIRM_PASSWORD": {
+                "TITLE": "Повторите пароль",
+                "PLACEHOLDER": "Password"
+            }
+        }
+    }
+}
